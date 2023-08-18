@@ -6,7 +6,7 @@ The robot use the following modules:
 
 ## Controller
 - ESP 32 Wroom 32D development board (30 pin)
-- 
+ 
 ## Actuators
 - 4 x N20 DC motors
 - 2 x L293D motor driver IC
