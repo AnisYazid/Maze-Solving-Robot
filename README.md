@@ -11,15 +11,15 @@ The robot use the following modules:
 - 4 x N20 DC motors
 - 2 x L293D motor driver IC
 - 74HC04 NOT gate IC
-- 
+ 
 ## Sensors
 - Qtr A8 IR array sensor
 - TCS34725 color sensor
-- 
+ 
 ## Power
 - 4 x LiPo 503450 3.7v 1000mAh battery
 - 7805 linear voltage regulator IC
-- 
+ 
 ## Miscellaneous
 - RGB Led 
 - Buzzer
